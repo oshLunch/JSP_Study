@@ -1,4 +1,4 @@
-package controller;
+package com.cos.hello.controller;
 
 import java.io.IOException;
 

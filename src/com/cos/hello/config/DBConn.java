@@ -1,4 +1,4 @@
-package config;
+package com.cos.hello.config;
 
 import java.sql.Connection;
 

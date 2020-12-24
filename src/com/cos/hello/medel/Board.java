@@ -1,4 +1,4 @@
-package medel;
+package com.cos.hello.medel;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
